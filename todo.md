@@ -1,0 +1,10 @@
+- [ ] Faire une fonction permettant de passer d'un tableau markdown à un fichier json
+- [ ] Faire un code qui extrait automatiquement les infos du github qui actualise tous les jours (ou directement de sa source) - une automatisation
+    - [ ] Ajouter une fonctionnalité qui permet de checker les doublons
+    - [ ] Voir aussi si y a un moyen d'extraire automatiquement directement des issues 
+- Tester l'automatisation
+- Remplir la todo indiquée dans le repo 
+- Faire un pull request 
+- S'il répondent pas créer un projet à part entière en indiquant qu'il s'inspire de hadak le repo avec le truc de ArXiv
+- Voir comment ca ca marche : [Daily Arxiv](https://github.com/zhuwenxing/daily_arxiv/tree/main)
+- Voir Arxivscraper : [Arxiv Scraper](https://github.com/Mahdisadjadi/arxivscraper)
