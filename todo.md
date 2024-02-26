@@ -1,10 +1,21 @@
-- [ ] Faire une fonction permettant de passer d'un tableau markdown à un fichier json
-- [ ] Faire un code qui extrait automatiquement les infos du github qui actualise tous les jours (ou directement de sa source) - une automatisation
+- [x] Faire une fonction permettant de passer d'un tableau markdown à un fichier json
+    - [x] Fonction qui extrait les tableaux d'un fichier markdown
+    - [x] Fonction qui transforme la liste des tableaux en fichier JSON
+- [x] Générer le fichier JSON contenant tous les papiers du README
+- [x] Générer le fichier JSON contenant tous les papiers de la version anglaise
+- [x] Comparer les deux fichiers JSON
+- [x] Ajouter les articles manquants au fichier principal
+- [x] Supprimer le JSON extrait du fichier readme EN
+- [ ] Faire un code qui extrait tous les commentaires à l'issue de [ML4Com](https://github.com/ML4Comm-Netw/Paper-with-Code-of-Wireless-communication-Based-on-DL)
     - [ ] Ajouter une fonctionnalité qui permet de checker les doublons
-    - [ ] Voir aussi si y a un moyen d'extraire automatiquement directement des issues 
-- Tester l'automatisation
-- Remplir la todo indiquée dans le repo 
-- Faire un pull request 
-- S'il répondent pas créer un projet à part entière en indiquant qu'il s'inspire de hadak le repo avec le truc de ArXiv
-- Voir comment ca ca marche : [Daily Arxiv](https://github.com/zhuwenxing/daily_arxiv/tree/main)
-- Voir Arxivscraper : [Arxiv Scraper](https://github.com/Mahdisadjadi/arxivscraper)
+- [ ] Dans la liste actuelle des articles les retrouver et ajouter les mots clés
+- [ ] Voir comment ca ca marche : [Daily Arxiv](https://github.com/zhuwenxing/daily_arxiv/tree/main)
+- [ ] Voir Arxivscraper : [Arxiv Scraper](https://github.com/Mahdisadjadi/arxivscraper)
+- [ ] Mettre en place un script qui scrape les articles et rapporte tous les articles
+- [ ] Vérifier s'il peut retrouver les articles au passé 
+    - [ ] Sinon appliquer le script qui extrait les tableaux et forment un json
+- [ ] Mettre en place une Base de données initiale
+- [ ] Actualiser le README du repo en ajoutant les articles à partir du JSON
+- [ ] Automatiser le processus d'ajout automatique d'article 
+    - [ ] Vérifier les doublons
+- [ ] Tester l'automatisation

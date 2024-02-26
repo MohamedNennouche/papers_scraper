@@ -50,3 +50,10 @@ def tables_from_markdown_to_json(file_path:str,json_path:str="tables.json"):
     with open(json_path, "w") as file_write : 
         json.dump(tables_json, file_write)
     return tables_json
+
+if __name__ == "__main__" : 
+    path_to_readme = "old_repo_readme.md"
+    path_to_readme_en = "old_repo_readme_en.md"
+    
+    tables_from_markdown_to_json(path_to_readme, "tables_readme.json")
+    tables_from_markdown_to_json(path_to_readme_en, "tables_readme_en.json")

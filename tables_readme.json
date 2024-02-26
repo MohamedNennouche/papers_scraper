@@ -1,0 +1,740 @@
+[
+  [
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2203.14359\">Online Meta-Learning For Hybrid Model-Based Deep Receivers</a>",
+      "Code": "<a href=\"https://github.com/tomerraviv95/meta-deepsic\">meta-deepsic</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2204.01731\">Gan-Based Joint Activity Detection and Channel Estimation For Grant-free Random Access</a>",
+      "Code": "<a href=\"https://github.com/deeeeeeplearning/jadce\">jadce</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2203.11854\">sionna: an open-source library for next-generation physical layer research</a>",
+      "Code": "<a href=\"https://github.com/nvlabs/sionna\">sionna</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/9302692\">Deep Learning Aided Robust Joint Channel Classification, Channel Estimation, and Signal Detection for Underwater Optical Communication</a>",
+      "Code": "<a href=\"https://github.com/Huaiyin-Lu/UWOC-JCCESD\">UWOC-JCCESD</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2102.02993\">LoRD-Net: Unfolded Deep Detection Network with Low-Resolution Receivers</a>",
+      "Code": "<a href=\"https://github.com/skhobahi/LoRD-Net\">LoRD-Net</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2111.08177\">Deep Diffusion Models for Robust Channel Estimation</a>",
+      "Code": "<a href=\"https://github.com/utcsilab/diffusion-channels\">diffusion-channels</a>"
+    },
+    {
+      "Paper": "<a href=\"https://openreview.net/forum?id=DjzPaX8AT0z\">A Channel Coding Benchmark for Meta-Learning</a>",
+      "Code": "<a href=\"https://github.com/ruihuili/MetaCC\">MetaCC</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2109.05107\">On the Feasibility of Modeling OFDM Communication Signals with Unsupervised Generative Adversarial Networks</a>",
+      "Code": "<a href=\"https://github.com/usnistgov/OFDM-GAN\">OFDM-GAN</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/9013332\">Robust Learning-Based ML Detection for Massive MIMO Systems with One-Bit Quantized Signals</a>",
+      "Code": "<a href=\"https://github.com/Yunseong-Cho/LearningML\">LearningML</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2012.00089\">iterative error decimation for syndrome-based neural network decoders</a>",
+      "Code": "<a href=\"https://github.com/kamassury/ied\">ied</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2108.12920\">ko codes: inventing nonlinear encoding and decoding for reliable wireless communication via deep-learning</a>",
+      "Code": "<a href=\"https://github.com/deepcomm/kocodes\">kocodes</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2009.01423\">Deep Residual Learning for Channel Estimation in Intelligent Reflecting Surface-Assisted Multi-User Communications</a>",
+      "Code": "<a href=\"https://github.com/XML124/CDRN-channel-estimation-IRS\">CDRN-channel-estimation-IRS</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/9018199\">Model-Driven Deep Learning for MIMO Detection</a>",
+      "Code": "<a href=\"https://github.com/hehengtao/OAMP-Net\">OAMP-Net</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2106.04043\">Dilated Convolution based CSI Feedback Compression for Massive MIMO Systems</a>",
+      "Code": "<a href=\"https://github.com/recusant7/DCRNet\">DCRNet</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2007.00038\">Unsupervised Deep Learning for Massive MIMO Hybrid Beamforming</a>",
+      "Code": "<a href=\"https://github.com/HamedHojatian/HBF-Net\">HBF-Net</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2102.07507\">CLNet: Complex Input Lightweight Neural Network designed for Massive MIMO CSI Feedback</a>",
+      "Code": "<a href=\"https://github.com/SIJIEJI/CLNet\">CLNet</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2008.03612\">Block Deep Neural Network-Based Signal Detector for Generalized Spatial Modulation</a>",
+      "Code": "<a href=\"https://github.com/hasanabs/B_DNN\">B_DNN</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2012.13607\">Deep Active Learning Approach to Adaptive Beamforming for mmWave Initial Alignment</a>",
+      "Code": "<a href=\"https://github.com/foadsohrabi/DL-ActiveLearning-BeamAlignment\">DL-ActiveLearning-BeamAlignment</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/9037126\">Data-Driven Deep Learning to Design Pilot and Channel Estimator for Massive MIMO</a>",
+      "Code": "<a href=\"https://github.com/gaozhen16/Source-Code-X.Ma\">Source-Code-X.Ma</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1910.05305\">Deep Learning Predictive Band Switching in Wireless Networks</a>",
+      "Code": "<a href=\"https://github.com/farismismar/Bandswitch-DeepMIMO\">Bandswitch-DeepMIMO</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2007.00140\">RE-MIMO: Recurrent and Permutation Equivariant Neural MIMO Detection</a>",
+      "Code": "<a href=\"https://github.com/krpratik/RE-MIMO\">RE-MIMO</a>"
+    },
+    {
+      "Paper": "<a href=\"https://github.com/Leo-Chu/NOLD/blob/master/JCN20-DIV2-067.R2.pdf\">NOLD: A Neural-Network Optimized Low-Resolution Decoder for LDPC Codes</a>",
+      "Code": "<a href=\"https://github.com/Leo-Chu/NOLD\">NOLD</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/abstract/document/8990045\">A MIMO detector with deep learning in the presence of correlated interference</a>",
+      "Code": "<a href=\"https://github.com/skypitcher/project_dcnnmld\">project_dcnnmld</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/9082619\">Deep Learning Driven Non-Orthogonal Precoding for Millimeter Wave Communications</a>",
+      "Code": "<a href=\"https://github.com/JKLinUESTC/Deep-Learning-Driven-Non-Orthogonal-Precoding-for-Millimeter-Wave-Communications\">Deep-Learning-Driven-Non-Orthogonal-Precoding-for-Millimeter-Wave-Communications</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9246287\">Iterative Algorithm Induced Deep-Unfolding Neural Networks: Precoding Design for Multiuser MIMO Systems</a>",
+      "Code": "<a href=\"https://github.com/hqyyqh888/DeepUnfolding_WMMSE\">DeepUnfolding_WMMSE</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1708.08514.pdf\">Power of Deep Learning for Channel Estimation and Signal Detection in OFDM Systems</a>",
+      "Code": "<a href=\"https://github.com/haoyye/OFDM_DNN\">haoyye/OFDM_DNN</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=8454504\">Automatic Modulation Classification: A Deep Learning Enabled Approach</a>",
+      "Code": "<a href=\"https://github.com/mengxiaomao\">mengxiaomao</a>/<a href=\"https://github.com/mengxiaomao/CNN_AMC\">CNN_AMC</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1703.09197.pdf\">Deep Architectures for Modulation Recognition</a>",
+      "Code": "<a href=\"https://github.com/qieaaa/Deep-Architectures-for-Modulation-Recognition\">qieaaa / Deep-Architectures-for-Modulation-Recognition</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/9448141\">Deep-Waveform: A Learned OFDM Receiver Based on Deep Complex-Valued Convolutional Networkss</a>",
+      "Code": "<a href=\"https://github.com/zhongyuanzhao/dl_ofdm\">zhongyuanzhao / dl_ofdm</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1808.03242\">Joint Transceiver Optimization for Wireless Communication PHY with Convolutional NeuralNetwork</a>",
+      "Code": "<a href=\"https://github.com/hlz1992/RadioCNN\">hlz1992/RadioCNN</a>"
+    },
+    {
+      "Paper": "<a href=\"https://par.nsf.gov/servlets/purl/10112564\">5G MIMO Data for Machine Learning: Application to Beam-Selection using Deep Learning</a>",
+      "Code": "<a href=\"https://github.com/lasseufpa\">lasseufpa</a>/<a href=\"https://github.com/lasseufpa/5gm-data\">5gm-data</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/abstract/document/9145050\">A Two-Fold Group Lasso Based Lightweight Deep Neural Network for Automatic Modulation Classification</a>",
+      "Code": "<a href=\"https://github.com/tjuxiaofeng/Group-Sparse-DNN-for-AMC\">Group-Sparse-DNN-for-AMC</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2009.13560\">Recursive CSI Quantization of Time-Correlated MIMO Channels by Deep Learning Classification</a>",
+      "Code": "<a href=\"https://github.com/StefanSchwarzTUW/MultiStage-Grassmannian-DNN\">MultiStage-Grassmannian-DNN</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1712.08919.pdf\">Deep Learning for Massive MIMO CSI Feedback</a>",
+      "Code": "<a href=\"https://github.com/sydney222/Python_CsiNet\">sydney222 / Python_CsiNet</a>"
+    },
+    {
+      "Paper": "<a href=\"http://arxiv.org/abs/1904.03657\">Beamforming Design for Large-Scale Antenna Arrays Using Deep Learning</a>",
+      "Code": "<a href=\"https://github.com/TianLin0509/BF-design-with-DL\">TianLin0509/BF-design-with-DL</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1702.00832.pdf\">An Introduction to Deep Learning for the Physical Layer</a>",
+      "Code": "<a href=\"https://github.com/yashcao/RTN-DL-for-physical-layer\">yashcao / RTN-DL-for-physical-layer</a><br /><a href=\"https://github.com/musicbeer/Deep-Learning-for-the-Physical-Layer\">musicbeer / Deep-Learning-for-the-Physical-Layer</a><br /><a href=\"https://github.com/helloMRDJ/autoencoder-for-the-Physical-Layer\">helloMRDJ / autoencoder-for-the-Physical-Layer</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1706.01151.pdf\">Deep MIMO Detection</a>",
+      "Code": "<a href=\"https://github.com/neevsamuel\">neevsamuel</a>/<a href=\"https://github.com/neevsamuel/DeepMIMODetection\">DeepMIMODetection</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1805.07631.pdf\">Learning to Detect</a>",
+      "Code": "<a href=\"https://github.com/neevsamuel\">neevsamuel</a>/<a href=\"https://github.com/neevsamuel/LearningToDetect\">LearningToDetect</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=8259241\">An iterative BP-CNN architecture for channel decoding</a>",
+      "Code": "<a href=\"https://github.com/liangfei-info\">liangfei-info</a>/<a href=\"https://github.com/liangfei-info/Iterative-BP-CNN\">Iterative-BP-CNN</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1701.07738.pdf\">On Deep Learning-Based Channel Decoding</a>",
+      "Code": "<a href=\"https://github.com/gruberto/DL-ChannelDecoding\">gruberto/DL-ChannelDecoding</a> <br/><a href=\"https://github.com/VivekRamalingamK/Decoder-using-deep-learning\">Decoder-using-deep-learning</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=8353153\">Deep learning-based channel estimation for beamspace mmWave massive MIMO systems</a>",
+      "Code": "<a href=\"https://github.com/hehengtao\">hehengtao</a>/<a href=\"https://github.com/hehengtao/LDAMP_based-Channel-estimation\">LDAMP_based-Channel-estimation</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1901.05850.pdf\">Fast Deep Learning for Automatic Modulation Classification</a>",
+      "Code": "<a href=\"https://github.com/dl4amc\">dl4amc</a>/<a href=\"https://github.com/dl4amc/source\">source</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1810.05893.pdf\">Deep Learning-Based Channel Estimation</a>",
+      "Code": "<a href=\"https://github.com/Mehran-Soltani\">Mehran-Soltani</a>/<a href=\"https://github.com/Mehran-Soltani/ChannelNet\">ChannelNet</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8780959\">Sparsely Connected Neural Network for Massive MIMO Detection</a>",
+      "Code": "<a href=\"https://github.com/NobleLee/MIMO_Detection\">MIMO_Detection</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1807.00801.pdf\">Deepcode: Feedback Codes via Deep Learning</a>",
+      "Code": "https://github.com/hyejikim1/Deepcode<br>https://github.com/yihanjiang/feedback_code"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1905.08990.pdf\">MIST: A Novel Training Strategy for Low-latency Scalable Neural Net Decoders</a>",
+      "Code": "<a href=\"https://github.com/kryashashwi/MIST_CNN_Decoder\">MIST_CNN_Decoder</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/abstract/document/8357902\">Deep Learning Models for Wireless Signal Classification With Distributed Low-Cost Spectrum Sensors</a>",
+      "Code": "<a href=\"https://github.com/zeroXzero/modulation_classif\">modulation_classif</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1904.09252.pdf\">Learning Physical-Layer Communication with Quantized Feedback</a>",
+      "Code": "<a href=\"https://github.com/henkwymeersch/quantizedfeedback\">quantizedfeedback</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1906.04448.pdf\">Reinforcement Learning for Channel Coding: Learned Bit-Flipping Decoding</a>",
+      "Code": "<a href=\"https://github.com/fabriziocarpi/RLdecoding\">RLdecoding</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1906.04610\">Adaptive Neural Signal Detection for Massive MIMO</a>",
+      "Code": "<a href=\"https://github.com/mehrdadkhani/MMNet\">mehrdadkhani/MMNet</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/8710287\">CNN-based Precoder and Combiner Design in mmWave MIMO Systems</a>",
+      "Code": "<a href=\"https://github.com/meuseabe/Deep_HybridBeamforming\">Deep_HybridBeamforming</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1909.03050.pdf\">Sequential Convolutional Recurrent Neural Networks for Fast Automatic Modulation Classification</a>",
+      "Code": "<a href=\"https://github.com/kython\">coming soon</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/abstract/document/8815542\">Low-Precision Neural Network Decoding of Polar Codes</a>",
+      "Code": "<a href=\"https://github.com/IgWod/low-precision-nnd\">low-precision-nnd</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1910.09141\">Low-rank mmWave MIMO channel estimation in one-bit receivers</a>",
+      "Code": "<a href=\"https://github.com/nitinjmyers/Low-rank-MIMO-channel-estimation-from-one-bit-measurements\">Low-rank-MIMO-channel-estimation-from-one-bit-measurements</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1910.06960\">Deep Learning for Massive MIMO with 1-Bit ADCs: When More Antennas Need Fewer Pilots</a>",
+      "Code": "<a href=\"https://github.com/YuZhang-GitHub/1-Bit-ADCs\">1-Bit-ADCs</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1905.13212\">Deep Learning for Direct Hybrid Precoding in Millimeter Wave Massive MIMO Systems</a>",
+      "Code": "<a href=\"https://github.com/lxf8519/DL-hybrid-precoder\">DL-hybrid-precoder</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/8684894\">Deep Learning-Based Detector for OFDM-IM</a>",
+      "Code": "<a href=\"https://github.com/ThienVanLuong/DeepIM\">DeepIM</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/8815464\">Deep Learning for Channel Coding via Neural Mutual Information Estimation</a>",
+      "Code": "<a href=\"https://github.com/Fritschek/Wireless_encoding_with_MI_estimation\">Wireless_encoding_with_MI_estimation</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1707.05674v3.pdf\">Learning the MMSE Channel Estimator</a>",
+      "Code": "<a href=\"https://github.com/tum-msv/learning-mmse-est\">learning-mmse-est</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=8780605\">Neural Network Aided SC Decoder for Polar Codes</a>",
+      "Code": "<a href=\"https://github.com/BruceGaoo/1_NND\">1_NND</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=8638509\">Exploiting Bi-Directional Channel Reciprocity in Deep Learning for Low Rate Massive MIMO CSI Feedback</a>",
+      "Code": "<a href=\"https://github.com/DLinWL/Bi-Directional-Channel-Reciprocity\">Bi-Directional-Channel-Reciprocity</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1711.00727.pdf\">Performance Evaluation of Channel Decoding With Deep Neural Networks</a>",
+      "Code": "<a href=\"https://github.com/levylv/deep-neural-network-decoder\">deep-neural-network-decoder</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1903.03128\">Decoder-in-the-Loop: Genetic Optimization-based LDPC Code Design</a>",
+      "Code": "<a href=\"https://github.com/AhmedElkelesh/Genetic-Algorithm-based-LDPC-Code-Design\">Genetic-Algorithm-based-LDPC-Code-Design</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2005.09718\">Benchmarking End-to-end Learning of MIMO Physical-Layer Communication</a>",
+      "Code": "<a href=\"https://github.com/JSChalmers/DeepLearning_MIMO\">DeepLearning_MIMO</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1906.03814\">Learned Conjugate Gradient Descent Network for Massive MIMO Detection</a>",
+      "Code": "<a href=\"https://github.com/YiWei0129/LcgNet\">LcgNet</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1812.10044\">Trainable Projected Gradient Detector for Massive Overloaded MIMO Channels: Data-driven Tuning Approach</a>",
+      "Code": "<a href=\"https://github.com/wadayama/overloaded_MIMO\">overloaded_MIMO</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/9054732\">Deep Soft Interference Cancellation for MIMO Detection</a>",
+      "Code": "<a href=\"https://github.com/nirshlezinger1/DeepSIC\">DeepSIC</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/2006.08448.pdf\">Deep unfolding of the weighted MMSE algorithm</a>",
+      "Code": "<a href=\"https://github.com/lpkg/WMMSE-deep-unfolding\">WMMSE-deep-unfolding</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2007.13824\">Deep Learning for Direction of Arrival Estimation via Emulation of Large Antenna Arrays</a>",
+      "Code": "<a href=\"https://gitlab.com/miriyugl/doa-with-dnn-via-emulation-of-antenna-arrays\">DoA with DNN via Emulation of Antenna Arrays</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2007.05177\">Acquiring Measurement Matrices via Deep Basis Persuit for Sparse Channel Estimation in mmWave Massive MIMO Systems</a>",
+      "Code": "<a href=\"https://github.com/Pengxia-Wu/DeepBP-AE\">DeepBP-AE</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/abstract/document/9130130\">Deep Learning for SVD and Hybrid Beamforming</a>",
+      "Code": "<a href=\"https://www.dropbox.com/sh/v0gs7ba0qq5x168/AACyqRoCz5m3fhpF-azkbn3Qa?dl=0\">DL_SVD_BF</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2006.16015\">Neural Mutual Information Estimation for Channel Coding: State-of-the-Art Estimators, Analysis, and Performance Comparison</a>",
+      "Code": "<a href=\"https://github.com/Fritschek/Reverse-Jensen_MI_estimation\">Reverse-Jensen_MI_estimation</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1912.12265\">Deep Transfer Learning Based Downlink Channel Prediction for FDD Massive MIMO Systems</a>",
+      "Code": "<a href=\"https://github.com/yangyuwenyang/Codes-for-Deep-Transfer-Learning-Based-Downlink-Channel-Prediction-for-FDD-Massive-MIMO-Systems\">Codes-for-Deep-Transfer-Learning-Based-Downlink-Channel-Prediction-for-FDD-Massive-MIMO-Systems</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2006.11435\">Channel Estimation for One-Bit Multiuser Massive MIMO Using Conditional GAN</a>",
+      "Code": "<a href=\"https://github.com/YudiDong/Channel_Estimation_cGAN\">Channel_Estimation_cGAN</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9145237\">A Model-Driven Deep Learning Method for Normalized Min-Sum LDPC Decoding</a>",
+      "Code": "<a href=\"https://github.com/tjuxiaofeng/A-Model-Driven-Deep-Learning-Method-for-Normalized-Min-Sum-LDPC-Decoding\">A-Model-Driven-Deep-Learning-Method-for-Normalized-Min-Sum-LDPC-Decoding</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9145469\">Complex-Valued Convolutions for Modulation Recognition using Deep Learning</a>",
+      "Code": "<a href=\"https://github.com/JakobKrzyston/Complex_Convolutions\">Complex_Convolutions</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1808.02208\">Generative Adversarial Estimation of Channel Covariance in Vehicular Millimeter Wave Systems</a>",
+      "Code": "<a href=\"https://github.com/lxf8519/GAN-cov-matrix\">GAN-cov-matrix</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/9207745\">Deep Learning for Beamspace Channel Estimation in Millimeter-Wave Massive MIMO Systems</a>",
+      "Code": "<a href=\"http://oa.ee.tsinghua.edu.cn/dailinglong/publications/publications.html\">Simulation Codes</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/8669025\">Deep Learning for Polar Codes over Flat Fading Channels</a>",
+      "Code": "<a href=\"https://github.com/ade-irawan/polarOverFlatFading\">polarOverFlatFading</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2101.06618\">Aggregated Network for Massive MIMO CSI Feedback</a>",
+      "Code": "<a href=\"https://github.com/Kylin9511/ACRNet\">ACRNet</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1602.04105.pdf\">Convolutional Radio Modulation Recognition Networks</a>",
+      "Code": "<a href=\"https://github.com/chrisruk\">chrisruk</a>/<a href=\"https://github.com/chrisruk/cnn\">cnn</a><br /><a href=\"https://github.com/qieaaa/Singal-CNN\">qieaaa / Singal-CNN</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1911.03038.pdf\">Turbo Autoencoder: Deep learning based channel code for point-to-point communication channels</a>",
+      "Code": "<a href=\"https://github.com/yihanjiang\">yihanjiang</a>/<a href=\"https://github.com/yihanjiang/turboae\">turboae</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1910.14322\">Multi-resolution CSI Feedback with deep learning in Massive MIMO System</a>",
+      "Code": "<a href=\"https://github.com/Kylin9511/CRNet\">CRNet</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/8951228\">Spatio-Temporal Representation with Deep Recurrent Network in MIMO CSI Feedback</a>",
+      "Code": "<a href=\"https://github.com/Aries-LXY/ConvlstmCsiNet\">ConvlstmCsiNet</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1908.04685\">Learn to Compress CSI and Allocate Resources in Vehicular Networks</a>",
+      "Code": "<a href=\"https://github.com/CooperLWang/Learn-CompressCSI-RA-V2X-Code\">Learn-CompressCSI-RA-V2X-Code</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1905.03761.pdf\">Deep Learning for TDD and FDD Massive MIMO: Mapping Channels in Space and Frequency</a>",
+      "Code": "<a href=\"https://github.com/malrabeiah/DL-Massive-MIMO\">DL-Massive-MIMO</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1812.07518\">Deep UL2DL: Channel Knowledge Transfer from Uplink to Downlink</a>",
+      "Code": "<a href=\"https://github.com/safarisadegh/UL2DL\">UL2DL</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2101.02420\">Towards Optimally Efficient Tree Search with Deep Temporal Difference Learning</a>",
+      "Code": "<a href=\"https://github.com/skypitcher/hats\">hats</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1904.10136\">Enabling Large Intelligent Surfaces with Compressive Sensing and Deep Learning</a>",
+      "Code": "<a href=\"https://github.com/Abdelrahman-Taha/LIS-DeepLearning\">LIS-DeepLearning</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/8755977\">A CNN-Based End-to-End Learning Framework Towards Intelligent Communication Systems</a>",
+      "Code": "<a href=\"https://github.com/ZhangKaiyao/Deepcom\">Deepcom</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1805.09317\">Communication Algorithms via Deep Learning</a>",
+      "Code": "<a href=\"https://github.com/yihanjiang\">yihanjiang</a>/<a href=\"https://github.com/yihanjiang/Sequential-RNN-Decoder\">commviadl</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1910.09630\">Learning to Communicate in a Noisy Environment</a>",
+      "Code": "<a href=\"https://github.com/ml4wireless/echo\">echo</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1910.09945\">Meta-Learning to Communicate: Fast End-to-End Training for Fading Channels</a>",
+      "Code": "<a href=\"https://github.com/kclip/meta-autoencoder\">meta-autoencoder</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/9036067\">Deep energy autoencoder for noncoherent multicarrier MU-SIMO systems</a>",
+      "Code": "<a href=\"https://github.com/ThienVanLuong/energy_autoencoder\">energy_autoencoder</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2001.11085\">Deep Channel Learning For Large Intelligent Surfaces Aided mm-Wave Massive MIMO Systems</a>",
+      "Code": "<a href=\"https://github.com/meuseabe/deepChannelLearning4RIS\">deepChannelLearning4RIS</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1903.02551.pdf\">Deep learning based end-to-end wireless communication systems with conditional GAN as unknown channel</a>",
+      "Code": "<a href=\"https://github.com/haoyye/End2End_GAN\">End2End_GAN</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1911.09002\">RadioUNet: Fast Radio Map Estimation with Convolutional Neural Networks</a>",
+      "Code": "<a href=\"https://github.com/RonLevie/RadioUNet\">RadioUNet</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/abstract/document/9271932\">Deep learning aided multicarrier systems</a>",
+      "Code": "<a href=\"https://github.com/ThienVanLuong/multicarrier_autoencoder\">multicarrier_autoencoder</a>"
+    }
+  ],
+  [
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/9322537\">Resource Allocation based on Graph Neural Networks in Vehicular Communications</a>",
+      "Code": "<a href=\"https://github.com/Coolzyh/Globecom2020-ResourceAllocationGNN\">Globecom2020-ResourceAllocationGNN</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2201.08994\">An Unsupervised Deep Unrolling Framework for Constrained Optimization Problems in Wireless Networks</a>",
+      "Code": "<a href=\"https://github.com/soulven/usrmnet-hwgcn\">USRMNet-HWGCN</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2111.07480\">Power Allocation for Wireless Federated Learning using Graph Neural Networks</a>",
+      "Code": "<a href=\"https://github.com/bl166/wirelessfl-pdgnet\">WirelessFL-PDGNet</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2111.07017\">Delay-Oriented Distributed Scheduling Using Graph Neural Networks</a>",
+      "Code": "<a href=\"https://github.com/zhongyuanzhao/gcn-dql\">gcn-dql</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2106.10307\">Deep Learning Based MAC via Joint Channel Access and Rate Adaptation</a>",
+      "Code": "<a href=\"https://github.com/postman511/Wireless-Signal-Strength-on-2.4GHz-WSS24-dataset\">Wireless-Signal-Strength-on-2.4GHz-WSS24-dataset</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2110.01722\">wireless link scheduling via graph representation learning: a comparative study of different supervision levels</a>",
+      "Code": "<a href=\"https://github.com/navid-naderi/LinkSchedulingGNNs_SupervisionStudy\">LinkSchedulingGNNs_SupervisionStudy</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2011.09430\">Distributed Scheduling using Graph Neural Networks</a>",
+      "Code": "<a href=\"https://github.com/zhongyuanzhao/distgcn\">distgcn</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2012.14350\">DeepBeam: Deep Waveform Learning for Coordination-Free Beam Management in mmWave Networks</a>",
+      "Code": "<a href=\"https://github.com/wineslab/deepbeam\">deepbeam</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1906.02871\">Graph Embedding-Based Wireless Link Scheduling With Few Training Samples</a>",
+      "Code": "<a href=\"https://github.com/mengyuan-lee/graph_embedding_link_scheduling\">graph_embedding_link_scheduling</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1812.02538.pdf\">Energy Efficiency in Reinforcement Learning for Wireless Sensor Networks</a>",
+      "Code": "<a href=\"https://github.com/mkoz71/Energy-Efficiency-in-Reinforcement-Learning\">mkoz71 / Energy-Efficiency-in-Reinforcement-Learning</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1705.09412\">Learning to optimize: Training deep neural networks for wireless resource management</a>",
+      "Code": "<a href=\"https://github.com/Haoran-S/DNN_WMMSE\">Haoran-S / DNN_WMMSE</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1705.10508.pdf\">Implications of Decentralized Q-learning Resource Allocation in Wireless Networks</a>",
+      "Code": "<a href=\"https://github.com/wn-upf/decentralized_qlearning_resource_allocation_in_wns\">wn-upf / decentralized_qlearning_resource_allocation_in_wns</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1707.02329\">Deep Q-Learning for Self-Organizing Networks Fault Management and Radio Performance Improvement</a>",
+      "Code": "<a href=\"https://github.com/farismismar/Deep-Q-Learning-SON-Perf-Improvement\">farismismar / Deep-Q-Learning-SON-Perf-Improvement</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1707.03269.pdf\">Q-Learning Algorithm for VoLTE Closed-Loop Power Control in Indoor Small Cells</a>",
+      "Code": "<a href=\"https://github.com/farismismar/Q-Learning-Power-Control\">farismismar / Q-Learning-Power-Control</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1812.06920.pdf\">Deep Learning for Optimal Energy-Efficient Power Control in Wireless Interference Networks</a>",
+      "Code": "<a href=\"https://github.com/bmatthiesen/deep-EE-opt\">bmatthiesen / deep-EE-opt</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=8644190\">Actor-Critic-Based Resource Allocation for Multi-modal Optical Networks</a>",
+      "Code": "<a href=\"https://github.com/BoyuanYan/Actor-Critic-Based-Resource-Allocation-for-Multimodal-Optical-Networks\">BoyuanYan / Actor-Critic-Based-Resource-Allocation-for-Multimodal-Optical-Networks</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/8428396\">Transmit Power Control Using Deep Neural Network for Underlay Device-to-Device Communication</a>",
+      "Code": "<a href=\"https://github.com/seotaijiya\">seotaijiya</a>/<a href=\"https://github.com/seotaijiya/TPC_D2D\">TPC_D2D</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/abstract/document/8690757\">Power Allocation in Multi-Cell Networks Using Deep Reinforcement Learning</a>",
+      "Code": "<a href=\"https://github.com/kangcp/qfnet\">qfnet</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1812.03421.pdf\">Deep Learning in Downlink Coordinated Multipoint in New Radio Heterogeneous Networks</a>",
+      "Code": "<a href=\"https://github.com/farismismar/DL-CoMP-Machine-Learning\">DL-CoMP-Machine-Learning</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1711.00968\">Deep Reinforcement Learning for Resource Allocation in V2V Communications</a>",
+      "Code": "https://github.com/haoyye/ResourceAllocationReinforcementLearning"
+    },
+    {
+      "Paper": "<a href=\"http://ieeexplore.ieee.org/document/8119495/metrics\">AIF: An Artificial Intelligence Framework for Smart Wireless Network Management</a>",
+      "Code": "<a href=\"https://github.com/caogang\">caogang</a>/<a href=\"https://github.com/caogang/WlanDqn\">WlanDqn</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1812.03640\">Deep-Learning-Power-Allocation-in-Massive-MIMO</a>",
+      "Code": "<a href=\"https://github.com/lucasanguinetti/Deep-Learning-Power-Allocation-in-Massive-MIMO\">lucasanguinetti / Deep-Learning-Power-Allocation-in-Massive-MIMO</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1905.00504\">Machine Learning meets Stochastic Geometry: Determinantal Subset Selection for Wireless Networks</a>",
+      "Code": "<a href=\"https://github.com/stochastic-geometry/DPPL\">DPPL</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=8647173\">Learning Based Power Control for mmWave Massive MIMO against Jamming</a>",
+      "Code": "<a href=\"https://github.com/xiaozhch5/Learning-Based-Power-Control-for-mmWave-Massive-MIMO-against-Jamming\">Learning-Based-Power-Control-for-mmWave-Massive-MIMO-against-Jamming</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1807.10025\">Towards Optimal Power Control via Ensembling Deep Neural Networks</a>",
+      "Code": "<a href=\"https://github.com/ShenGroup/PCNet-ePCNet\">PCNet-ePCNet</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1907.08487.pdf\">A Graph Neural Network Approach for Scalable Wireless Power Control</a>",
+      "Code": "<a href=\"https://github.com/yshenaw/Globecom2019\">Globecom2019</a>"
+    },
+    {
+      "Paper": "<a href=\"https://www.researchgate.net/publication/335159543_Mobility-Aware_Centralized_Reinforcement_Learning_for_Dynamic_Resource_Allocation_in_HetNets\">Mobility-Aware Centralized Reinforcement Learning for Dynamic Resource Allocation in HetNets</a>",
+      "Code": "<a href=\"https://github.com/LiuJieShane/UARA\">UARA</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/8961912\">Intelligent Resource Allocation in Wireless Communications Systems</a>",
+      "Code": "<a href=\"https://github.com/seotaijiya/IRAWCS\">IRAWCS</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1704.01665\">Learning Combinatorial Optimization Algorithms over Graphs</a>",
+      "Code": "<a href=\"https://github.com/Hanjun-Dai/graph_comb_opt.git\">graph_comb_opt</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2002.12877\">Extending the RISC-V ISA for Efficient RNN-based 5G Radio Resource Management</a>",
+      "Code": "<a href=\"https://github.com/andrire/RNNASIP\">RNNASIP</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1812.02979\">Power Allocation in Multi-user Cellular Networks With Deep Q Learning Approach</a>",
+      "Code": "<a href=\"https://github.com/mengxiaomao/PA_ICC\">PA_ICC</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1901.07159\">Power Allocation in Multi-User Cellular Networks: Deep Reinforcement Learning Approaches</a>",
+      "Code": "<a href=\"https://github.com/mengxiaomao/PA_TWC\">PA_TWC</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2009.10812\">Unfolding WMMSE using Graph Neural Networks for Efficient Power Allocation</a>",
+      "Code": "<a href=\"https://github.com/ArCho48/Unrolled-WMMSE\">Unrolled-WMMSE</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2009.06681\">Deep Actor-Critic Learning for Distributed Power Control in Wireless Mobile Networks</a>",
+      "Code": "<a href=\"https://github.com/sinannasir/Power-Control-asilomar\">Power-Control-asilomar</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2007.07632\">Graph Neural Networks for Scalable Radio Resource Management: Architecture Design and Theoretical Analysis</a>",
+      "Code": "<a href=\"https://github.com/yshenaw/GNN-Resource-Management\">GNN-Resource-Management</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2010.11909\">Contrastive Self-Supervised Learning for Wireless Power Control</a>",
+      "Code": "<a href=\"https://github.com/navid-naderi/ContrastiveSSL_WirelessPowerControl\">ContrastiveSSL_WirelessPowerControl</a>"
+    },
+    {
+      "Paper": "<a href=\"https://github.com/zhiguo-ding/CRNOMA_DDPG/blob/main/paper.pdf\">No-Pain No-Gain: DRL Assisted Optimization in Energy-Constrained CR-NOMA Networks</a>",
+      "Code": "<a href=\"https://github.com/zhiguo-ding/CRNOMA_DDPG\">CRNOMA_DDPG</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2012.03655\">Multicell Power Control under Rate Constraints with Deep Learning</a>",
+      "Code": "<a href=\"https://github.com/Leeyyhh/SRnet-and-SRNet-Heu-for-power-control\">SRnet-and-SRNet-Heu-for-power-control</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1910.02900\">Deep Learning for mmWave Beam and Blockage Prediction Using Sub-6GHz Channels</a>",
+      "Code": "<a href=\"https://github.com/malrabeiah/Sub6-Preds-mmWave\">Sub6-Preds-mmWave</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9154263\">Wireless link adaptation - a hybrid data-driven and model-based approach</a>",
+      "Code": "<a href=\"https://github.com/lpkg/LinkAdaptationCSI\">LinkAdaptationCSI</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2011.07782\">Learning to Continuously Optimize Wireless Resource In Episodically Dynamic Environment</a>",
+      "Code": "<a href=\"https://github.com/Haoran-S/ICASSP2021\">ICASSP2021</a>"
+    },
+    {
+      "Paper": "<a href=\"http://network.ee.tsinghua.edu.cn/niulab/wp-content/uploads/2018/10/deepnap_CCN.pdf\">DeepNap: Data-Driven Base Station Sleeping Operations through Deep Reinforcement Learning</a>",
+      "Code": "<a href=\"https://github.com/zaxliu\">zaxliu</a>/<a href=\"https://github.com/zaxliu/deepnap\">deepnap</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/2104.06007.pdf\">No-Pain No-Gain: DRL Assisted Optimization in Energy-Constrained CR-NOMA Networks</a>",
+      "Code": "<a href=\"https://github.com/zhiguo-ding/CRNOMA_DDPG\">CRNOMA_DDPG</a>"
+    }
+  ],
+  [
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2108.00506\">A Scalable Federated Multi-agent Architecture for Networked Connected Communication Network</a>",
+      "Code": "<a href=\"https://github.com/paperflight/Fed-MF-MAL\">Fed-MF-MAL</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2011.10282\">Reconfigurable Intelligent Surface Enabled Federated Learning: A Unified Communication-Learning Design Approach</a>",
+      "Code": "<a href=\"https://github.com/liuhang1994/RIS-FL\">RIS-FL</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2104.01555\">Decentralized Statistical Inference with Unrolled Graph Neural Networks</a>",
+      "Code": "<a href=\"https://github.com/IrisWangHe/Learning-based-DOP-Framework\">Learning-based-DOP-Framework</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/abstract/document/8701533\">Decentralized Scheduling for Cooperative Localization with Deep Reinforcement Learning</a>",
+      "Code": "<a href=\"https://github.com/henkwymeersch/DeepRLVehicularLocalization\">DeepRLVehicularLocalization</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/abstract/document/9123956\">Deep Reinforcement Learning for Distributed Dynamic MISO Downlink-Beamforming Coordination</a>",
+      "Code": "<a href=\"https://github.com/JungangGe/DRL_for_DDBC\">DRL_for_DDBC</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1812.07394\">Decentralized Computation Offloading for Multi-User Mobile Edge Computing: A Deep Reinforcement Learning Approach</a>",
+      "Code": "<a href=\"https://github.com/swordest\">swordest</a>/<a href=\"https://github.com/swordest/mec_drl\">mec_drl</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1910.13067.pdf\">Federated Learning over Wireless Networks: Convergence Analysis and Resource Allocation</a>",
+      "Code": "<a href=\"https://github.com/nhatminh/FEDL\">FEDL</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/8737464\">Federated Learning over Wireless Networks: Optimization Model Design and Analysis</a>",
+      "Code": "<a href=\"https://github.com/nhatminh/OnDevAI\">OnDevAI</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/8731635\">Deep Deterministic Policy Gradient (DDPG)-Based Energy Harvesting Wireless Communications</a>",
+      "Code": "<a href=\"https://github.com/CrQiu/Energy-Harvesting-DDPG-\">Energy-Harvesting-DDPG</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1909.07972.pdf\">A joint learning and communications framework for federated learning over wireless networks</a>",
+      "Code": "<a href=\"https://github.com/mzchen0/Wireless-FL\">Wireless-FL</a>"
+    }
+  ],
+  [
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/8474348\">Distributive Dynamic Spectrum Access Through Deep Reinforcement Learning: A Reservoir Computing-Based Approach</a>",
+      "Code": "<a href=\"https://github.com/haohsuan2918/DQN_RC_DSA_IOT2019\">DQN_RC_DSA_IOT2019</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/8303773\">Deep Reinforcement Learning for Dynamic Multichannel Access in Wireless Networks</a>",
+      "Code": "<a href=\"https://github.com/GulatiAditya/DynamicMultiChannelRL\">DynamicMultiChannelRL</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/8254101\">Deep multi-user reinforcement learning for dynamic spectrum access in multichannel wireless networks</a>",
+      "Code": "<a href=\"https://github.com/shkrwnd\">shkrwnd</a>/<a href=\"https://github.com/shkrwnd/Deep-Reinforcement-Learning-for-Dynamic-Spectrum-Access\">Deep-Reinforcement-Learning-for-Dynamic-Spectrum-Access</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/8303773\">Deep Reinforcement Learning for Dynamic Multichannel Access in Wireless Networks</a>",
+      "Code": "<a href=\"https://github.com/GulatiAditya/DynamicMultiChannelRL\">DynamicMultiChannelRL</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/8969641\">Reinforcement Learning Based Scheduling Algorithm for Optimizing Age of Information in Ultra Reliable Low Latency Networks</a>",
+      "Code": "<a href=\"https://github.com/aelgabli/AoI_RL\">AoI_RL</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2102.07019\">Enhancing WiFi Multiple Access Performance with Federated Deep Reinforcement Learning</a>",
+      "Code": "<a href=\"https://github.com/Mauriyin/FLDRL-in-Wireless-Communication\">FLDRL-in-Wireless-Communication</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/abstract/document/9154271\">A Clustering Approach to Wireless Scheduling</a>",
+      "Code": "<a href=\"https://github.com/willtop/A_Clustering_Approach_to_Wireless_Scheduling\">A_Clustering_Approach_to_Wireless_Scheduling</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/8665952\">Deep-Reinforcement Learning Multiple Access for Heterogeneous Wireless Networks</a>",
+      "Code": "<a href=\"https://github.com/YidingYu/DLMA\">DLMA</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1709.07080\">A deep-reinforcement learning approach for software-defined networking routing optimization</a>",
+      "Code": "<a href=\"https://github.com/knowledgedefinednetworking/a-deep-rl-approach-for-sdn-routing-optimization\">knowledgedefinednetworking / a-deep-rl-approach-for-sdn-routing-optimization</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1808.01486\">Spatial deep learning for wireless scheduling</a>",
+      "Code": "<a href=\"https://github.com/willtop\">willtop</a>/<a href=\"https://github.com/willtop/Spatial_DeepLearning_Wireless_Scheduling\">Spatial_DeepLearning_Wireless_Scheduling</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/9540910\">Transformer based Online Bayesian Neural Networks for Grant Free Uplink Access in CRAN with Streaming Variational Inference</a>",
+      "Code": "<a href=\"https://github.com/jhanilesh96/CRAN_MIMO_VI\">CRAN_MIMO_VI</a>"
+    }
+  ],
+  [
+    {
+      "Paper": "<a href=\"https://link.springer.com/chapter/10.1007/978-3-030-19945-6_10\">DELMU: A Deep Learning Approach to Maximising the Utility of Virtualised Millimetre-Wave Backhauls</a>",
+      "Code": "<a href=\"https://github.com/ruihuili/DELMU\">ruihuili / DELMU</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1810.03943.pdf\">ns-3 meets OpenAI Gym: The Playground for Machine Learning in Networking Research</a>",
+      "Code": "<a href=\"https://github.com/tkn-tub/ns3-gym\">ns3-gym</a>"
+    }
+  ],
+  [
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/9605672\">Deep Reinforcement Learning with Communication Transformer for Adaptive Live Streaming in Wireless Edge Networks</a>",
+      "Code": "<a href=\"https://github.com/wsyCUHK/SACCT\">SACCT</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/abstract/document/9627763\">Dependent Task Offloading for Edge Computing based on Deep Reinforcement Learning</a>",
+      "Code": "<a href=\"https://github.com/linkpark/RLTaskOffloading\">RLTaskOffloading</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2008.02033\">Fast Adaptive Computation Offloading in Edge Computing based on Meta Reinforcement Learning</a>",
+      "Code": "<a href=\"https://github.com/linkpark/metarl-offloading\">metarl-offloading</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/document/9449944\">Lyapunov-guided Deep Reinforcement Learning for Stable Online Computation Offloading in Mobile-Edge Computing Networks</a>",
+      "Code": "<a href=\"https://github.com/revenol/LyDROO\">LyDROO</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2103.03817\">Proactive and AoI-aware Failure Recovery for Stateful NFV-enabled Zero-Touch 6G Networks: Model-Free DRL Approach</a>",
+      "Code": "<a href=\"https://github.com/wildsky95/ZT-PFR\">ZT-PFR</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2010.12461\">Multi-UAV Path Planning for Wireless Data Harvesting with Deep Reinforcement Learning</a>",
+      "Code": "<a href=\"https://github.com/hbayerlein/uav_data_harvesting\">uav_data_harvesting</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1905.02910\">Spectrum sharing in vehicular networks based on multi-agent reinforcement learning</a>",
+      "Code": "<a href=\"https://github.com/AlexVic/MARLspectrumSharingV2X\">MARLspectrumSharingV2X</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/pdf/1909.00395.pdf\">An Open-Source Framework for Adaptive Traffic Signal Control</a>",
+      "Code": "<a href=\"https://github.com/docwza/sumolights\">docwza/sumolights</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1911.11523\">CSI-based Positioning in Massive MIMO systems using Convolutional Neural Networks</a>",
+      "Code": "<a href=\"https://github.com/sibrendebast/MaMIMO_CSI_with_CNN_positioning\">MaMIMO_CSI_with_CNN_positioning</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/abstract/document/9145068\">BottleNet++: An End-to-End Approach for Feature Compression in Device-Edge Co-Inference Systems</a>",
+      "Code": "<a href=\"https://github.com/shaojiawei07/BottleNetPlusPlus\">BottleNetPlusPlus</a>"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/abstract/document/8771176/\">Deep reinforcement learning for online computation offloading in wireless powered mobile-edge computing networks</a>",
+      "Code": "<a href=\"https://github.com/revenol/DROO\">DROO</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2003.04581\">MaMIMO CSI-based positioning using CNNs: Peeking inside the black box</a>",
+      "Code": "<a href=\"https://github.com/sibrendebast/inside-the-black-box\">inside-the-black-box</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2010.11653\">Graph Neural Network for Large-Scale Network Localization</a>",
+      "Code": "<a href=\"https://github.com/Yanzongzi/GNN-For-localization\">GNN-For-localization</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/2008.02033\">Fast Adaptive Task Offloading in Edge Computing based on Meta Reinforcement Learning</a>",
+      "Code": "<a href=\"https://github.com/linkpark/metarl-offloading\">metarl-offloading</a>"
+    },
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1712.01154\">RF-based Direction Finding of UAVs Using DNN</a>",
+      "Code": "https://github.com/LahiruJayasinghe/DeepDOA"
+    }
+  ],
+  [
+    {
+      "Paper": "<a href=\"https://arxiv.org/abs/1902.08391\">Physical Adversarial Attacks Against End-to-End Autoencoder Communication Systems</a>",
+      "Code": "https://github.com/meysamsadeghi/Security-and-Robustness-of-Deep-Learning-in-Wireless-Communication-Systems"
+    },
+    {
+      "Paper": "<a href=\"https://ieeexplore.ieee.org/abstract/document/8761681\">Deep Learning for the Gaussian Wiretap Channel</a>",
+      "Code": "<a href=\"https://github.com/Fritschek/NN_GWTC\">NN_GWTC</a>"
+    }
+  ]
+]
